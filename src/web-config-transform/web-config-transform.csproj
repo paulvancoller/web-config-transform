@@ -6,4 +6,8 @@
     <RootNamespace>web_config_transform</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.Xdt" Version="3.1.0" />
+  </ItemGroup>
+
 </Project>
